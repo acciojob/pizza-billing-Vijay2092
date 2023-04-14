@@ -67,7 +67,7 @@ public class Pizza {
     public void addTakeaway(){
         if (!this.addTakeaway) {
             this.addTakeaway = true;
-            this.bill += "Paper bag Added: 20\n";
+            this.bill += "Paperbag Added: 20\n";
         }
     }
 
